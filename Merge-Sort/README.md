@@ -1,0 +1,1 @@
+This program is the basic working model of merge sort algorithm. It contains a small optimization in mergeSortUtil() which involves a sentinel code to prevent writing extra loop statements when copying the remaining elements in the other sorted array and the current sorted array is completely traversed and add to the modified array.
